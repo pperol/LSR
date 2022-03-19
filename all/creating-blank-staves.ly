@@ -1,6 +1,3 @@
-\version "2.22.2"
-%% http://lsr.di.unimi.it/LSR/Item?id=5
-
 \score {
   {
     \repeat unfold 12 { s1 \break }
