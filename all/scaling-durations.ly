@@ -1,6 +1,3 @@
-\version "2.22.2"
-%% http://lsr.di.unimi.it/LSR/Item?id=6
-
 \relative c'' {
   \time 2/4
   % Alter durations to triplets
